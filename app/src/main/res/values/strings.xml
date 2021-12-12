@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ProyectoFinal</string>
+    <string name="ma_titulo"> ESCUELA</string>
+    <string name="ma_matri">Matrícula</string>
+    <string name="ma_nombre">Nombre Alumno</string>
+    <string name="ma_edad">Edad</string>
+    <string name="ma_datosDocs">Documentos Entregados:</string>
+    <string name="ma_Hombre">Hombre</string>
+    <string name="ma_Mujer">Mujer</string>
+    <string name="ma_doc1">Acta de Nacimiento</string>
+    <string name="ma_doc2">Cartilla de Vacunación</string>
+    <string name="ma_doc3">CURP</string>
+    <string name="ma_doc4">Fotos</string>
+</resources>
